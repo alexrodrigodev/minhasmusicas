@@ -19,5 +19,4 @@ public class Podcast extends Audio{
     public void setDescricao(String descricao) {
         this.descricao = descricao;
     }
-
 }
